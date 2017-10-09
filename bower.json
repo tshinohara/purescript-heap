@@ -1,0 +1,22 @@
+{
+  "name": "purescript-heap",
+  "authors": [
+    "t.shinohara <takenari.shinohara@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "purescript-prelude": "^3.1.0",
+    "purescript-maybe": "^3.0.0"
+  },
+  "devDependencies": {
+    "purescript-console": "^3.0.0"
+  }
+}
