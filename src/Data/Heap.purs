@@ -8,6 +8,7 @@ module Data.Heap
   , singleton
   , null
   , merge
+  , insert
   , root
   , min
   , max
