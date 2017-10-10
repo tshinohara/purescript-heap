@@ -25,6 +25,8 @@ foreign import kind HeapType
 foreign import data Min :: HeapType
 foreign import data Max :: HeapType
 
+-- | Heap. Implemented using Leftist heap.
+
 data HTProxy (t :: HeapType) = HTProxy
 
 class HeapOrder (t :: HeapType) where
