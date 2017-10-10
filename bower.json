@@ -3,6 +3,10 @@
   "authors": [
     "t.shinohara <takenari.shinohara@gmail.com>"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/tshinohara/purescript-heap.git"
+  },
   "license": "MIT",
   "homepage": "",
   "ignore": [
